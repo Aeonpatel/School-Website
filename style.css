@@ -1,0 +1,11 @@
+body{
+text-align:center;
+}
+.list{
+position:fixed;
+list-style:none;
+float:left;
+}
+.movie-head{
+padding:left;    
+}
